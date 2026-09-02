@@ -138,8 +138,8 @@ a {
 
 /* Footer */
 footer {
-  background-color: #B8FFB8;
-  color: white;
+  background-color: #333;
+  color: red;
   text-align: center;
   padding: 20px;
 }
